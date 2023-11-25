@@ -32,7 +32,7 @@ Hello!
 Stats 一些状态
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xulei131401" ></img>
-[![imengyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imengyu)](https://github.com/xulei131401/github-readme-stats)
+[![imengyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xulei131401)](https://github.com/xulei131401/github-readme-stats)
 
 Contract
 ---
