@@ -37,5 +37,5 @@ Stats 一些状态
 Contract
 ---
 
-* Github Page: [[https://imengyu.top](https://xulei131401.github.io/)]([https://imengyu.top](https://xulei131401.github.io/))
+* Github Page: [https://xulei131401.github.io](https://xulei131401.github.io)
 * Mail: 373045134@qq.com
