@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 * 🙂 一枚菜鸡程序员
 * 🎁 喜欢程序开发，喜欢倒腾一些小项目
 * 🌈 想与同样爱好的大佬们交朋友
-* ✅ 会用 PHP/Golang/Java/Python/JavaScript/Vue等
+* ✅ 会用 PHP/Golang/Java/Python/Rust/JavaScript/Vue/React等
 * 📚 正在努力学习更多知识
 
 ---
