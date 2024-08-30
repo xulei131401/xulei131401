@@ -3,6 +3,12 @@
 <!--
 **xulei131401/xulei131401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**About Me:** 
+|   标题   | 网址                                    |
+| :------------: | :------------------------------------------------------- |
+| **博&emsp;&emsp;客** | **<https://blog.zdog.top>**                            |
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -37,5 +43,4 @@ Stats 一些状态
 Contract
 ---
 
-* Github Page: [https://zz-blog.github.io](https://zz-blog.github.io)
 * Mail: 373045134@qq.com
